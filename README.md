@@ -2,6 +2,7 @@
 Circuit Python Mouse Jiggle that does not present CIRCUITPY drive or Serial CDC over USB (REPL).
 
 This is an evolultion of the "Mouse_Jiggler_Trinket_M0" found here: https://github.com/dglaude/Mouse_Jiggler_Trinket_M0
+It was made possible thanks to an hint by @p3lim in https://github.com/adafruit/circuitpython/issues/9136#
 
 A mouse jiggler is a device that generate tiny mouse mouvement on your computer to avoid it from going into sleep mode.
 
